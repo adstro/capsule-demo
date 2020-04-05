@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Capsule Demo</string>
+    <string name="title_fragment_article_list">Article List</string>
+    <string name="read_article">Read Full Article</string>
 </resources>
